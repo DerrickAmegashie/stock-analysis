@@ -35,14 +35,14 @@ With regards to the execution times, the refactored script had a lesser executio
 ### General
 
 #### Advantages
-It helps in a faster execution making the code more efficient.
-It makes the software easier to understand and improves the design of the software.
-It makes it easier for other users to read.
-Helps the developer to improve the logic of the code through expanding it.
+- It helps in a faster execution making the code more efficient.
+- It makes the software easier to understand and improves the design of the software.
+- It makes it easier for other users to read.
+- Helps the developer to improve the logic of the code through expanding it.
 
 #### Disadvantages
-It is expensive and may introduce bugs that the test may not catch. 
-It poses a greater risk as compared to an original script
+- It is expensive and may introduce bugs that the test may not catch. 
+- It poses a greater risk as compared to an original script
 
 ### Advantages and Disadvantages of Original and Refactored VBA Script
 VBA is a great tool to help perform automated analysis and solve complex logics. It helped Steve advise his parents on which stocks to invest in. Performing the refactored script gave me a deeper understanding of VBA and how to use it in performing such analysis by thinking broadly. It was more efficient than the original script. The original script was easier to use even though both scripts provided the same outputs.  
