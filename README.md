@@ -1,11 +1,11 @@
 ## Overview of Project
-Steve’s parents are looking forward to invest in an energy company. There haven’t done much research and are on the verge of investing all of their money in DAQO New Energy Group (DQ). Steve with his background is willing to look into the stocks of DQ but he is interested in diversifying his parents funds. He wants to analyze are green energy company stocks so he has a stock file and will want us to help him analyze these stocks. To achieve this, I employed the use of Visual Basic Applications (VBA) to interact with  Excel.  VBA allows me to make calculations, use complex logics to perform analysis and most importantly using code with automated analysis allowing Steve to use it for any stock.
+Steve’s parents are looking forward to invest in an energy company. There haven’t done much research and are on the verge of investing all of their money in DAQO New Energy Group (DQ). Steve with his background is willing to look into the stocks of DQ but he is interested in diversifying his parents funds. He wants to analyze all Green Energy Companies stocks. He has a stock file and requires some help in analysing these stocks. To achieve this, I employed the use of Visual Basic Applications (VBA) to interact with  Excel.  VBA allows me to make calculations, use complex logics to perform analysis and most importantly using code with automated analysis allowing Steve to use it for any stock.
 Once I completed the worksheet which allowed Steve to analyze the entire dataset, he preferred expanding  the data set to include the entre stock market over the last few years. To achieve this, I had to edit (refactor) the solution code to loop through all the data one time to collect the same information. The purpose of refactoring was to ensure that the code was more efficient. 
 
 ## Results
 
 ### Analysis
-To determine whether refactoring the code was more efficient, I began addressing the first module (challenge) Steve proposed which was finding out if DQ was the best option I started by analysis DQ’s stock and realized it might not be the best stocks for his parents to invest in. 
+To determine whether refactoring the code was more efficient, I began addressing the first module (challenge) Steve proposed which was finding out if DQ was the best option I started by analysing DQ’s stock and realized it might not be the best stocks for his parents to invest in. 
 
 <img width="420" alt="Screen Shot 2021-03-04 at 11 03 09 PM" src="https://user-images.githubusercontent.com/78401776/110071068-58277e80-7d49-11eb-8b90-a77bd8ca1a57.png">
 
@@ -13,7 +13,7 @@ Once I completed that task, I analyzed multiple stocks to find some better choic
 
 <img width="290" alt="Screen Shot 2021-03-04 at 11 21 43 PM" src="https://user-images.githubusercontent.com/78401776/110071084-65dd0400-7d49-11eb-8a34-cefdd6507629.png">
 
-After performing this code, I went a step further to refactor it to determine if the code was sufficient enough and to loop through the entire data at the same time. I also add formatting changes to show which stocks made great returns. I create three output arrays for this code (tickerVolumes, tickerStartingPrices and tickerEnding Prices).  Formatted the cells (colors) to in order to have a better and more efficient reading of the data. Green being returns that were good and red the opposite. 
+After performing this code, I went a step further to refactor it to determine if the code was sufficient enough and to loop through the entire data at the same time. I also included formatting changes to show which stocks made better returns. I created three output arrays for this code (tickerVolumes, tickerStartingPrices and tickerEnding Prices).  Formatted the cells (colors) in order to have a better and more efficient reading of the data. Green being returns that were good and red the opposite. 
 
 The stock analysis outputs for the “All Stocks Analysis Refactored” were the same as that of the “All Stocks Analysis”.  
 The stock performances in 2017 and 2018 shows that 2017 was a better year for most of the companies. They had a better return as compared to 2018. Per the analysis below, TERP stock was the only company that had a negative return in 2017.  
